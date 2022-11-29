@@ -3,6 +3,8 @@
 using namespace std;
 int main(){
 srand(time(0));
+//mala izmjena
+
 
   int zadati_broj  = rand()&100;
   int pokusaj = 0;
